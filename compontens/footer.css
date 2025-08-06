@@ -1,0 +1,10 @@
+/* footer*/
+.footer {
+  width: 100%;
+  padding: 1rem 0;
+  font-size: var(--font-size-15);
+  border-top: 0.1rem solid var(--color-black);
+  margin-top: 11rem;
+}
+
+/* End footer*//*# sourceMappingURL=footer.css.map */

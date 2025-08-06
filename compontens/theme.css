@@ -1,0 +1,21 @@
+/* Theme*/
+html:has(.toggle__checkbox:checked) {
+  --color-background: var(--color-black);
+  --color-text: var(--color-white);
+  --color-box-img: var(--color-green);
+  --color-link-bg: var(--color-green);
+  --color-grey: #080808;
+  --color-input-border: var(--color-white);
+}
+
+.contact__socials {
+  transition: var(--transition-timing);
+  display: flex;
+  gap: 1rem;
+}
+
+html:has(.toggle__checkbox:checked) .contact__socials img {
+  filter: brightness(0) saturate(100%) invert(42%) sepia(80%) saturate(749%) hue-rotate(81deg) brightness(93%) contrast(95%);
+}
+
+/* End theme*//*# sourceMappingURL=theme.css.map */
