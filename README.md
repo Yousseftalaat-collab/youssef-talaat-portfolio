@@ -8,7 +8,7 @@ A modern, responsive portfolio built with <strong>HTML</strong>, <strong>CSS (SA
 
 <h2>📸 Preview</h2>
 <div align="center">
-  <img src="./screenshoot.png" width="600" alt="Youssef Talaat Portfolio Preview"/>
+  <img src="./screenshoot.png" width="1000" height="500" alt="Youssef Talaat Portfolio Preview"/>
 </div>
 
 <hr>
